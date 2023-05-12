@@ -16,7 +16,7 @@ Thanks for choosing Reformatt. Here's some of the things you opted in for. Hold 
 * **rft:RandomPos()** - Positions an instance in a random position inside a region, but there's more: **it even tweens!**
 * **rft:RandomSize()** - Sizes an instance in with a random size between two values, but guess what: **this tweens too!**
 * **rft:RandomColor()** - Changes the color of an instance to a random color between two values
-* **rft:Killbrick()** - Make easy obstacles with this function. Just call it and it gets the job done
+* **rft:KillBrick()** - Make easy obstacles with this function. Just call it and it gets the job done
 * **rft:SetPrecision()** - Ever used C++? This changes the precision point to a custom number of decimals
 * **rft:Abbreviate()** - Have long numbers and want to shorten them a little? This function turns your numbers into shorter ones like 2K or 5M
 * **rft:Countdown()** - Tired of writing long loops for countdowns? With a simple call, this does it all, counting down, so that you don't have to
