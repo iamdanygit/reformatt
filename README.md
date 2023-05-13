@@ -2,12 +2,12 @@
 
 Yet another useful Roblox module, designed to make coding easier.
 
-[![Reformatt+](https://img.shields.io/badge/github-reformattplus-6600ff?style=plastic&logo=github)](https://github.com/iamdanygit/reformatt/releases)
-[![Github Release](https://img.shields.io/badge/github-release-9999ff?style=plastic&logo=github)](https://github.com/iamdanygit/reformatt/releases)
-[![Roblox Release](https://img.shields.io/badge/roblox-release-9999ff?style=plastic&logo=roblox)](https://github.com/iamdanygit/reformatt/releases)
-[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)](https://github.com/iamdanygit/reformatt/releases)
-[![Documentation](https://img.shields.io/badge/wiki-documentation-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/releases)
-[![Changelog](https://img.shields.io/badge/wiki-changelog-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/releases)
+[![Reformatt+](https://img.shields.io/badge/github-reformattplus-6600ff?style=plastic&logo=github)]()
+[![Github Release](https://img.shields.io/badge/github-release-9999ff?style=plastic&logo=github)]()
+[![Roblox Release](https://img.shields.io/badge/roblox-release-9999ff?style=plastic&logo=roblox)]()
+[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)]()
+[![Documentation](https://img.shields.io/badge/wiki-documentation-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki)
+[![Changelog](https://img.shields.io/badge/wiki-changelog-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki/Changelog)
 
 ## Features
 Thanks for choosing Reformatt. Here's some of the things you opted in for. Hold onto something, cause this is a long ride!
@@ -36,11 +36,11 @@ Thanks for choosing Reformatt. Here's some of the things you opted in for. Hold 
 
 For the model or extra documentation, follow the links below:
 
-[![Reformatt+](https://img.shields.io/badge/github-reformattplus-6600ff?style=plastic&logo=github)](https://github.com/iamdanygit/reformatt/releases)
-[![Github Release](https://img.shields.io/badge/github-release-9999ff?style=plastic&logo=github)](https://github.com/iamdanygit/reformatt/releases)
-[![Roblox Release](https://img.shields.io/badge/roblox-release-9999ff?style=plastic&logo=roblox)](https://github.com/iamdanygit/reformatt/releases)
-[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)](https://github.com/iamdanygit/reformatt/releases)
-[![Documentation](https://img.shields.io/badge/wiki-documentation-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/releases)
-[![Changelog](https://img.shields.io/badge/wiki-changelog-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/releases)
+[![Reformatt+](https://img.shields.io/badge/github-reformattplus-6600ff?style=plastic&logo=github)]()
+[![Github Release](https://img.shields.io/badge/github-release-9999ff?style=plastic&logo=github)]()
+[![Roblox Release](https://img.shields.io/badge/roblox-release-9999ff?style=plastic&logo=roblox)]()
+[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)]()
+[![Documentation](https://img.shields.io/badge/wiki-documentation-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki)
+[![Changelog](https://img.shields.io/badge/wiki-changelog-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki/Changelog)
 
 <img src="gitassets/rftbg.png" width="500" />
