@@ -30,7 +30,7 @@ Thanks for choosing Reformatt. Here's some of the things you opted in for. Hold 
 * <img src="https://img.shields.io/badge/-plus-6600ff" width="20" /> **rft:GenerateTerrain()** - Generates a random map based on a heightmap made of smooth terrain!
 * <img src="https://img.shields.io/badge/-plus-6600ff" width="20" /> **rft:ApplyUIEffect()** - Applies custom UI effects to any UI elements such as: UI particles, UI rainbow gradients, UI rainbow colors, UI shadows, etc.
 * <img src="https://img.shields.io/badge/-plus-6600ff" width="20" /> **rft:NewUIElement()** - Inserts new UI elements such as: sliders, checkboxes, radio buttons, etc.
-* And more to come... <img src="https://img.shields.io/badge/-Feedback%2Fsuggestions%20on%20the%20DevForum%20are%20appreciated!-9999ff" width="260" />
+* And more... (check out the wiki for the full list) <img src="https://img.shields.io/badge/-Feedback%2Fsuggestions%20on%20the%20DevForum%20are%20appreciated!-9999ff" width="260" />
 
 <h1>Reformatt: (version v1.0)</h1>
 
