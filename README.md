@@ -5,7 +5,7 @@ Yet another useful Roblox module, designed to make coding easier.
 [![Reformatt+](https://img.shields.io/badge/github-reformattplus-6600ff?style=plastic&logo=github)]()
 [![Github Release](https://img.shields.io/badge/github-release-9999ff?style=plastic&logo=github)]()
 [![Roblox Release](https://img.shields.io/badge/roblox-release-9999ff?style=plastic&logo=roblox)]()
-[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)]()
+[![Devforum Page](https://img.shields.io/badge/devforum-page-9999ff?style=plastic&logo=roblox)](https://devforum.roblox.com/t/reformatt-another-helpful-tool-soon-coming-to-the-platform/2335851)
 [![Documentation](https://img.shields.io/badge/wiki-documentation-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki)
 [![Changelog](https://img.shields.io/badge/wiki-changelog-6600ff?style=plastic&logo=mdbook)](https://github.com/iamdanygit/reformatt/wiki/Changelog)
 
